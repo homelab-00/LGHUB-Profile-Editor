@@ -5,7 +5,7 @@ A simple app that lets you edit profile names, profile icons and add/remove prof
 
 You can run it directly (without having to bother with python) by simply downloading the `.exe` from the [releases](https://github.com/homelab-00/LGHUB-Profile-Editor/releases/tag/V3) page.
 
-You can change a profile's name and its associated profile path by editing the fields directly. Clearing the icon is self explanatory. When you change icon, the app will ask you to select an image from your computer. Image types `.bmp`, `.ico`, `.png`, `.jpg` and `.jpeg` are supported. Since LGHUB prefers `.bmp` files, we auto convert images to that format. The selected icon is then copied to the icon folder (named `icon_cache` and located in the same folder as `settings.db`) either ovewritting the one already there or creating a new one.
+You can change a profile's name and its associated application path by editing the fields directly. Clearing the icon is self explanatory. When you change icon, the app will ask you to select an image from your computer. Image types `.bmp`, `.ico`, `.png`, `.jpg` and `.jpeg` are supported. Since LGHUB prefers `.bmp` files, we auto convert images to that format. The selected icon is then copied to the icon folder (named `icon_cache` and located in the same folder as `settings.db`) either ovewritting the one already there or creating a new one.
 
 Don't forget to save your changes when you're done.
 
